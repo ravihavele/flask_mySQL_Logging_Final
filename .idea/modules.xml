@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../flask_movie/.idea/flask_movie.iml" filepath="$PROJECT_DIR$/../flask_movie/.idea/flask_movie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/flask_mySQL_Logging_Final.iml" filepath="$PROJECT_DIR$/.idea/flask_mySQL_Logging_Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../flask_with_mysql/.idea/flask_with_mysql.iml" filepath="$PROJECT_DIR$/../flask_with_mysql/.idea/flask_with_mysql.iml" />
+    </modules>
+  </component>
+</project>
